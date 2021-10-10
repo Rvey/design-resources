@@ -1,6 +1,6 @@
-# design-resources
+# design resources & userfull links 
 
-
+# design resources
 
 ## Find Screen Size:
 https://www.screensizes.app
@@ -16,3 +16,8 @@ https://foont.co
 https://www.ls.graphics/free/free-duct-tape-mockup
 ## Font brief
 https://www.fontbrief.com/
+
+
+# usefull links 
+## setup redux toolkit - redux saga 
+https://dev.to/nilanth/redux-toolkit-the-standard-way-to-write-redux-2g32
