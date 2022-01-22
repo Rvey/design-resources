@@ -25,3 +25,5 @@ https://www.fontbrief.com/
 # usefull links 
 ## setup redux toolkit - redux saga 
 https://dev.to/nilanth/redux-toolkit-the-standard-way-to-write-redux-2g32
+## react typecript cheatsheets
+https://react-typescript-cheatsheet.netlify.app/
