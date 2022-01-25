@@ -16,7 +16,8 @@ https://foont.co
 https://www.ls.graphics/free/free-duct-tape-mockup
 ## Font brief
 https://www.fontbrief.com/
-
+## Animate your designs easily
+https://jitter.video/
 
 ### -----------------------
 ### -----------------------
